@@ -1,17 +1,17 @@
-# Talend Open Studio for Data Quality
-http://www.talend.com
+# Talaxie Open Studio for Data Quality
+https://www.deilink.fr
 
 
-![alt text](https://www.talend.com/wp-content/uploads/2016/07/talend-logo.png "Talend")
+![alt text](https://www.deilink.fr/image/talaxie_logo.jpg "Talaxie")
 
 
 > Contents
 
-This repository contains the source files for Talend Open Studio for Data Quality. These files must be used together with the common code contained in [tcommon-studio-se](https://github.com/Talend/tcommon-studio-se).
+This repository contains the source files for Talaxie Open Studio for Data Quality. These files must be used together with the common code contained in [tcommon-studio-se](https://github.com/Talaxie/tcommon-studio-se).
 
 
 ## Repository Structure
-All Talend Studio repositories follow the same file structure:
+All Talaxie Studio repositories follow the same file structure:
 ```
 
   |_ main           Main Eclipse plugins and features
@@ -27,18 +27,18 @@ All Talend Studio repositories follow the same file structure:
 
 ## Download
 
-You can download this product from the [Talend website](http://www.talend.com/download/talend-open-studio?qt-product_tos_download_new=2&utm_medium=communityext&utm_source=github&utm_campaign=tosdq).
+You can download this product from the [Talaxie website](https://www.deilink.fr?qt-product_tos_download_new=2&utm_medium=communityext&utm_source=github&utm_campaign=tosdq).
 
 
 ## Usage and Documentation
 
-Documentation is available on [Talend Help Center](http://help.talend.com/).
+Documentation is available on [Talaxie Help Center](https://www.deilink.fr/).
 
 
 
 ## Support
 
-You can ask for help on our [Forum](http://www.talend.com/services/global-technical-support).
+You can ask for help on our [Forum](https://www.deilink.fr/services/global-technical-support).
 
 
 ## Contributing
@@ -52,6 +52,6 @@ Feel free to share your Talend components on [Talend Exchange](http://www.talend
 
 ## License
 
-Copyright (c) 2006-2021 Talend
+Copyright (c) 2023-2024 Talaxie
 
 Licensed under the Apache V2 License
