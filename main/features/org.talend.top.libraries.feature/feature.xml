@@ -25,10 +25,7 @@
       <import plugin="com.ibm.icu" version="0.0.0" match="greaterOrEqual"/>
       <import plugin="javax.activation" version="0.0.0" match="greaterOrEqual"/>
       <import plugin="javax.mail" version="0.0.0" match="greaterOrEqual"/>
-      <import plugin="javax.servlet" version="0.0.0" match="greaterOrEqual"/>
-      <import plugin="javax.servlet.jsp" version="0.0.0" match="greaterOrEqual"/>
       <import plugin="javax.wsdl" version="0.0.0" match="greaterOrEqual"/>
-      <import plugin="javax.xml" version="0.0.0" match="greaterOrEqual"/>
       <import plugin="jakarta.xml.soap-api" version="0.0.0" match="greaterOrEqual"/>
       <import plugin="org.antlr.runtime" version="0.0.0" match="greaterOrEqual"/>
       <import plugin="org.apache.ant" version="0.0.0" match="greaterOrEqual"/>
@@ -157,41 +154,26 @@
 
    <plugin
          id="org.talend.libraries.google.libphonumber"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
+         version="0.0.0"/>
 
    <plugin
          id="org.talend.libraries.google.re2j"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
+         version="0.0.0"/>
 
    <plugin
          id="org.talend.libraries.jfreechart"
-         download-size="0"
-         install-size="0"
          version="0.0.0"/>
 
    <plugin
          id="org.talend.libraries.jung"
-         download-size="0"
-         install-size="0"
          version="0.0.0"/>
 
    <plugin
          id="org.talend.libraries.mapdb"
-         download-size="0"
-         install-size="0"
          version="0.0.0"/>
 
    <plugin
          id="org.eclipse.nebula.widgets.grid"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
+         version="0.0.0"/>
 
 </feature>
