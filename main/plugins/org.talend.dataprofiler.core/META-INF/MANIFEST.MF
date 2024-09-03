@@ -9,7 +9,6 @@ Require-Bundle: org.eclipse.nebula.widgets.tablecombo,
  org.eclipse.nebula.widgets.grid,
  org.eclipse.ui.ide,
  org.apache.commons.logging,
- org.apache.commons.collections,
  org.apache.commons.lang,
  org.apache.commons.io,
  org.talend.utils,
@@ -64,7 +63,8 @@ Require-Bundle: org.eclipse.nebula.widgets.tablecombo,
  org.talend.model,
  org.talend.cwm.mip,
  org.talend.cwm.mip.edit,
- org.talend.sdk.component.studio-integration
+ org.talend.sdk.component.studio-integration,
+ org.talend.libraries.excel
 Bundle-ActivationPolicy: lazy
 Export-Package: org.talend.dataprofiler.core,
  org.talend.dataprofiler.core.exception,
@@ -126,7 +126,8 @@ Eclipse-RegisterBuddy: org.apache.log4j, org.talend.testutils
 Bundle-Localization: plugin
 Bundle-ClassPath: .
 Service-Component: OSGI-INF/indicatorDefault.xml
-Import-Package: org.talend.dataprofiler.service,
+Import-Package: org.apache.commons.collections4,
+ org.talend.dataprofiler.service,
  org.talend.fileprocess
 Automatic-Module-Name: org.talend.dataprofiler.core
  
