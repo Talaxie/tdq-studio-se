@@ -1,6 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: TOP Chart plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Bundle-SymbolicName: org.talend.dataprofiler.top.chart;singleton:=true
 Bundle-Version: 8.8.8.qualifier
 Bundle-Activator: org.talend.dataprofiler.chart.TOPChartPlugin

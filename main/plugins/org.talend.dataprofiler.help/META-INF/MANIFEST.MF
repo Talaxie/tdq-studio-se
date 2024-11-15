@@ -1,6 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Help Plug-in
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Bundle-SymbolicName: org.talend.dataprofiler.help;singleton:=true
 Bundle-Version: 8.8.8.qualifier
 Bundle-Activator: org.talend.dataprofiler.help.HelpPlugin
