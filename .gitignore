@@ -4,7 +4,6 @@ dist/
 target/
 bin/
 class/
-.settings/
 .idea/
 *.ipr
 *.iml
